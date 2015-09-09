@@ -8,7 +8,7 @@ Saving and recovering data takes too long time in internal projects of a company
 
 #### Task
 
-Provide a reliable service for keeping, returning and transforming images (and another files). The service must have features for easy administering by storages (adding, removing, archiving)
+Provide a reliable web service for saving, retrieving and transforming images (and another files). The service must have features for easy administering by storages (adding, removing, archiving)
 
 #### Base features ###
 
@@ -44,7 +44,7 @@ Provide a reliable service for keeping, returning and transforming images (and a
 
 ### Use cases
  * Save a file
- * Returns file in a format
+ * Retrieve file in a format
  * File transformation
  * Adding a storage
  * Moving files from a degrading storage TODO
