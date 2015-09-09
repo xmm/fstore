@@ -1,0 +1,13 @@
+/var/log/fstore/*.log
+{
+	rotate 365
+	daily
+	missingok
+	notifempty
+	compress
+	delaycompress
+	sharedscripts
+	postrotate
+		invoke-rc.d rsyslog reload > /dev/null
+	endscript
+}

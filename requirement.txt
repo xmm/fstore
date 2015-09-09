@@ -1,0 +1,6 @@
+flask
+flask-classy
+Flask-Testing
+Pillow
+xxhash
+six
