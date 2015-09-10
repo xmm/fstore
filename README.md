@@ -50,3 +50,5 @@ Provide a reliable web service for saving, retrieving and transforming images (a
  * Moving files from a degrading storage TODO
  * Recovering files from an archive TODO
 
+## Deployment
+[Deployment Diagram](https://github.com/xmm/fstore/blob/master/Deployment_Diagram.png)
